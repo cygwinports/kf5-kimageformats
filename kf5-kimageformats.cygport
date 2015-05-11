@@ -1,0 +1,11 @@
+inherit kf5
+
+NAME="kf5-kimageformats"
+VERSION=5.9.0
+RELEASE=1
+CATEGORY="Libs"
+SUMMARY="Additional image format plugins for Qt5"
+DESCRIPTION="This framework provides additional image format plugins for QtGui.
+As such it is not required for the compilation of any other software, but may
+be a runtime requirement for Qt-based software to support certain image formats."
+
